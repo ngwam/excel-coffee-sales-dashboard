@@ -39,7 +39,7 @@ Used to classify records based on business rules.
 
 Applied to create conditional logic and calculated fields.
 
-5. Date Functions
+5.Date Functions
 
 Used to derive Year, Month and Quarter for time-based analysis.
 
